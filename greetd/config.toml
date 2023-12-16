@@ -1,0 +1,10 @@
+[terminal]
+vt = 1
+
+[default_session]
+command = "agreety --cmd labwc -s alacritty"
+user = "greeter"
+
+[initial_session]
+command = "labwc"
+user = "johnsi"
