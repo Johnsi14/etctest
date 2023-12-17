@@ -6,5 +6,5 @@ command = "agreety --cmd labwc -s alacritty"
 user = "greeter"
 
 [initial_session]
-command = "labwc"
+command = "labwc -s alacritty"
 user = "johnsi"
