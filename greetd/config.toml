@@ -8,3 +8,5 @@ user = "greeter"
 [initial_session]
 command = "labwc -s alacritty"
 user = "johnsi"
+
+#Adding some changes for no purpose
